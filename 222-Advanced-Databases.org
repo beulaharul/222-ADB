@@ -15,33 +15,32 @@
 
 
 |Unit I |Parallel and Distributed Databases|9| 		
-Database System Architectures: Centralized and Client-Server Architectures -– Server System Architectures –- Parallel Systems -- Distributed Systems; Parallel Databases: I/O Parallelism -– Inter and Intra Query Parallelism –- Inter and Intra operation Parallelism –- Design of Parallel Systems; Distributed Database Concepts: Distributed Data Storage –- Distributed Transactions –- Commit Protocols –- Concurrency Control –- Distributed Query Processing -- Case Studies. (K4) 
+Database System Architectures: Centralized and Client-Server Architectures -– Server System Architectures –- Parallel Systems -- Distributed Systems; Parallel Databases: I/O Parallelism -– Inter and Intra Query Parallelism –- Inter and Intra operation Parallelism –- Design of Parallel Systems; Distributed Database Concepts: Distributed Data Storage –- Distributed Transactions –- Commit Protocols –- Concurrency Control –- Distributed Query Processing -- Case Studies.  
 
 |Unit II|Object and Object-Relational Databases|9|
 Object Database Concepts: Object-Oriented Concepts and Features -- Object Identity, and Objects versus Literals -- Complex Type Structures for Objects and Literals -- Encapsulation of Operations and Persistence of Objects -- Type Hierarchies and Inheritance -- Other Object-Oriented Concepts; Object-Relational Features:
-Object Database Extensions to SQL; ODMG Object Model and ODL -- Object Database Conceptual Design -- Object Query Language OQL -- C++ Language Binding in the ODMG Standard.(K3)
+Object Database Extensions to SQL; ODMG Object Model and ODL -- Object Database Conceptual Design -- Object Query Language OQL -- C++ Language Binding in the ODMG Standard.
 
 |Unit III|XML And Web Databases |9| 
-XML Databases: XML Data Model –- DTD –- XML Schema –- XML Querying; Web Databases: Web Database Programming Using PHP -- Basic Features of PHP -- PHP Database Programming -- Library Database Schema -- Case Study.(K4) 
+XML Databases: XML Data Model –- DTD –- XML Schema –- XML Querying -- XML Languages -- Extracting XML Documents from Relational Databases; Introduction to Web Database.
 
 |Unit IV|Mobile Databases |9| 
-Mobile Databases: Location and Handoff Management; Effect of Mobility on Data Management: Data Categorization -- Location Dependent Data Distribution ; Mobile Transaction Models: HiCoMo -- Moflex -- Kangaroo -- MDSTPM --Mobilaction; Concurrency Control Mechanism -- Transaction Commit Protocols -- Mobile Database Recovery Schemes.(K2)
+Mobile Databases: Location and Handoff Management; Effect of Mobility on Data Management: Data Categorization -- Location Dependent Data Distribution ; Mobile Transaction Models: HiCoMo -- Moflex -- Kangaroo -- MDSTPM --Mobilaction; Concurrency Control Mechanism -- Transaction Commit Protocols -- Mobile Database Recovery Schemes.
 
 
 |Unit V|Intelligent Databases |9| 
-Active Databases: Syntax and Semantics (Starburst, Oracle, DB2) -- Taxonomy- Applications -- Design Principles for Active Rules; Temporal Databases: Overview of Temporal Databases TSQL2 -- Deductive Databases--Recursive Queries in SQL; Spatial Databases: Spatial Data Types -- Spatial Relationships-- Spatial Data Structures--Spatial Access Methods-- Spatial DB Implementation; Multimedia Database Concepts.(K2)
+Active Databases: Syntax and Semantics (Starburst, Oracle, DB2) -- Taxonomy- Applications -- Design Principles for Active Rules; Temporal Databases: Overview of Temporal Databases TSQL2 -- Deductive Databases--Recursive Queries in SQL; Spatial Databases: Spatial Data Types -- Spatial Relationships-- Spatial Data Structures--Spatial Access Methods-- Spatial DB Implementation; Multimedia Database Concepts.
 
 
 |Total:|45|
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- To develop skills on parallel and distributed databases. 
-- To use the object oriented database concepts and features.
-- To describe and design web databases. 
-- To learn  mobile databases and its transaction models.
-- To identify each type of intelligent databases and its necessity.
-
+- Understand the parallel and distributed databases. (K3)
+- Apply the object oriented database concepts and features.(K3)
+- Describe and design XML databases. (K3)
+- Understand the mobile databases and its transaction models.(K2)
+- Understand the different types of intelligent databases.(K2)
       
 ** References
 1.R. Elmasri, S.B. Navathe,``Fundamentals of Database Systems'', Sixth Edition, Pearson Education/Addison Wesley, 2010. (Units I, II, III, V)
